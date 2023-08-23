@@ -1,0 +1,3 @@
+(library
+ (name oi)
+ (modules Oi))
